@@ -1,0 +1,28 @@
+name,start_pos,end_pos,description
+campo25,127,139,Valor do Título
+campo26,140,142,Número do Banco: “001”
+campo27,143,146,"Prefixo da Agência Cobradora: “0000” "
+campo28,147,147,Dígito Verificador do Prefixo da Agência Cobradora: “Brancos”
+campo29,148,149,"Espécie de Titulo "
+campo30,150,150,"Aceite do Título: "
+campo31,151,156,"Data de Emissão: Informe no formato “DDMMAA” "
+campo32,157,158,Instrução Codificada
+campo33,159,160,Instrução Codificada
+campo34,161,173,Juros de Mora por Dia de Atraso
+campo35,174,179,Data Limite para Concessão de Desconto/Data de Operação do BBVendor/Juros de Mora.
+campo36,180,192,Valor do Desconto
+campo37,193,205,"Valor do IOF "
+campo38,206,218,Valor do Abatimento
+campo39,219,220,Tipo de Inscrição do Pagador
+campo40,221,234,Número do CNPJ ou CPF do Pagador
+campo41,235,271,Nome do Pagador
+campo42,272,274,Complemento do Registro: “Brancos”
+campo43,275,314,Endereço do Pagador
+campo44,315,326,Bairro do Pagador
+campo45,327,334,CEP do Endereço do Pagador
+campo46,335,349,Cidade do Pagador
+campo47,350,351,UF da Cidade do Pagador
+campo48,352,391,Observações/Mensagem ou Sacador/Avalista
+campo49,392,393,"Número de Dias Para Protesto ou Negativação "
+campo50,394,394,"Indicador de Recebimento Parcial "
+campo51,395,400,"Seqüencial de Registro "
